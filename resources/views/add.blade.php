@@ -4,7 +4,7 @@
 <div class="container">
     <h1>Tambah Siswa</h1>
     <div class="row">
-        <div class="col-8">
+        <div class="col-md-8">
             <div class="card">
                 <div class="card-header">
                     <h4>Form Tambah Siswa</h4>
