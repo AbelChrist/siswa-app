@@ -68,7 +68,6 @@ class StudentController extends Controller
      */
     public function edit(Student $student)
     {
-        $student = Student::find($student)->first();
         return view("edit", ["student" => $student]);
     }
 
